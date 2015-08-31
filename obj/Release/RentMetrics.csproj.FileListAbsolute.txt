@@ -1,0 +1,16 @@
+C:\dev\mine\RentMetrics\RentMetrics\bin\Release\RentMetrics.dll.config
+C:\dev\mine\RentMetrics\RentMetrics\bin\Release\RentMetrics.dll
+C:\dev\mine\RentMetrics\RentMetrics\bin\Release\RentMetrics.pdb
+C:\dev\mine\RentMetrics\RentMetrics\bin\Release\RentMetrics.dll.manifest
+C:\dev\mine\RentMetrics\RentMetrics\bin\Release\RentMetrics.vsto
+C:\dev\mine\RentMetrics\RentMetrics\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\dev\mine\RentMetrics\RentMetrics\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\dev\mine\RentMetrics\RentMetrics\obj\Release\RentMetrics.FormAPI.resources
+C:\dev\mine\RentMetrics\RentMetrics\obj\Release\RentMetrics.FormHelp.resources
+C:\dev\mine\RentMetrics\RentMetrics\obj\Release\RentMetrics.FormProgress.resources
+C:\dev\mine\RentMetrics\RentMetrics\obj\Release\RentMetrics.FormSearch.resources
+C:\dev\mine\RentMetrics\RentMetrics\obj\Release\RentMetrics.Properties.Resources.resources
+C:\dev\mine\RentMetrics\RentMetrics\obj\Release\RentMetrics.Ribbon.resources
+C:\dev\mine\RentMetrics\RentMetrics\obj\Release\RentMetrics.csproj.GenerateResource.Cache
+C:\dev\mine\RentMetrics\RentMetrics\obj\Release\RentMetrics.dll
+C:\dev\mine\RentMetrics\RentMetrics\obj\Release\RentMetrics.pdb

@@ -1,0 +1,16 @@
+C:\dev\mine\RentMetrics\RentMetrics\bin\Debug\RentMetrics.dll
+C:\dev\mine\RentMetrics\RentMetrics\bin\Debug\RentMetrics.pdb
+C:\dev\mine\RentMetrics\RentMetrics\bin\Debug\RentMetrics.dll.manifest
+C:\dev\mine\RentMetrics\RentMetrics\bin\Debug\RentMetrics.vsto
+C:\dev\mine\RentMetrics\RentMetrics\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\dev\mine\RentMetrics\RentMetrics\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\dev\mine\RentMetrics\RentMetrics\obj\Debug\RentMetrics.Properties.Resources.resources
+C:\dev\mine\RentMetrics\RentMetrics\obj\Debug\RentMetrics.csproj.GenerateResource.Cache
+C:\dev\mine\RentMetrics\RentMetrics\obj\Debug\RentMetrics.dll
+C:\dev\mine\RentMetrics\RentMetrics\obj\Debug\RentMetrics.pdb
+C:\dev\mine\RentMetrics\RentMetrics\obj\Debug\RentMetrics.Ribbon.resources
+C:\dev\mine\RentMetrics\RentMetrics\bin\Debug\RentMetrics.dll.config
+C:\dev\mine\RentMetrics\RentMetrics\obj\Debug\RentMetrics.FormAPI.resources
+C:\dev\mine\RentMetrics\RentMetrics\obj\Debug\RentMetrics.FormHelp.resources
+C:\dev\mine\RentMetrics\RentMetrics\obj\Debug\RentMetrics.csprojResolveAssemblyReference.cache
+C:\dev\mine\RentMetrics\RentMetrics\bin\Debug\RentMetrics.tlb
